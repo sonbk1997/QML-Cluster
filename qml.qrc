@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>icons/speed_background.png</file>
+        <file>icons/speed_needle.png</file>
+        <file>components/SpeedGauge.qml</file>
+        <file>DData.qml</file>
+        <file>DStyle.qml</file>
+        <file>icons/overlay.png</file>
+    </qresource>
+</RCC>
